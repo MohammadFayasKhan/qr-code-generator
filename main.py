@@ -22,4 +22,4 @@ img = qr.make_image()
 img.save(file_path)
 
 # Confirm where the file was saved.
-print(f"QR code saved to {file_path}")
+print(f"QR code saved to {file_path} ✅")
