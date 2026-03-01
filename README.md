@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/Image-Pillow-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Day-1%20of%20Daily%20Build-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/mohammadfayaskhan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -131,5 +134,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ---
 
 <p align="center">
-  Made with ❤️ as part of a daily build challenge · <b>Day 1 of ∞</b>
+  Made with ❤️ as part of a daily build challenge · <b>Day 1 of ∞</b><br/>
+  <a href="https://www.linkedin.com/in/mohammadfayaskhan">Connect with me on LinkedIn</a> · <a href="https://github.com/MohammadFayasKhan">More projects on GitHub</a>
 </p>
